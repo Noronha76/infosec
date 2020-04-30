@@ -1,0 +1,2 @@
+speedtest --lista -> lista o numero dos servidores 
+speedtest --server 'n' -> efetua o teste no servidor especificado em 'n'
